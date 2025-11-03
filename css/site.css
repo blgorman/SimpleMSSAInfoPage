@@ -1,0 +1,12 @@
+#infopanel {
+    background-color: yellow;
+    color: black;
+    padding: 15px;
+}
+
+.infoDisplay {
+    font-size: 16px;
+    margin-top: 10px;
+    background-color: darkblue;
+    color: white;
+}
